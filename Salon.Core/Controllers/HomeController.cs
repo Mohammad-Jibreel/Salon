@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Salon.EF.Models;
+using Salon.Core.Models;
 using System.Diagnostics;
 
 namespace Salon.Core.Controllers

@@ -1,4 +1,4 @@
-namespace Salon.EF.Models
+namespace Salon.Core.Models
 {
     public class ErrorViewModel
     {
